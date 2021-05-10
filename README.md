@@ -1,4 +1,5 @@
 # Aruco-tag-cameraCalibandPose
+This task was assigned to me as part of the selection process for the Autonomous Ground Vehicle Research Group software team at IIT Kharagpur.
 ## Key Learnings
 1. Camera Calibration - Extrinsic and Intrinsic parameters
 2. Fiducial Markers importance 
