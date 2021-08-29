@@ -1,5 +1,5 @@
 # Camera Calibration using chess board and <br/>  Pose Estimation using ArUco tag 
-This objective of this project was to calcuate the camera parameters for pose estimation.
+This objective of this project was to calculate the camera parameters for pose estimation.
 ## Key Learnings
 1. Camera Calibration - Extrinsic and Intrinsic parameters
 2. Importance of Fiducial Markers
